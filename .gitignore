@@ -1,0 +1,22 @@
+#Locale .terraform directories
+**/.terraform
+
+*.tfstate
+*.tfstate.*
+
+
+# Crash log files
+Crash.log
+Crash.*.*.log
+
+
+*.tfvars
+*.tfvars.json
+
+
+# Ignore overrider files 
+*.overrider.tf
+*.overrider.tf.json
+*-overrider.tf
+*-overrider.tf.json
+
