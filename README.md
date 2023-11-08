@@ -1,5 +1,6 @@
 # Terraform-Test
-*** Exercise involves setting up the Terraform backend using the Azure Storage Account***
+
+*** Exercise involves setting up the Terraform backend using the Azure Storage Account
 ***and configuring the GitHub repository for version control and integration with GitHub Actions for deploying resources to Microsoft Azure.***
 
 ## Oppsett av GitHub-repository: 
